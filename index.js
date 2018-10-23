@@ -3,14 +3,14 @@ function happyHolidays(string) {
   return('Happy holidays!')
 }
 
-function happyHolidaysTo() {
+function happyHolidaysTo(string) {
 
 }
 
-function happyHolidayTo() {
+function happyHolidayTo(string) {
 
 }
 
-function holidayCountdown() {
+function holidayCountdown(string) {
 
 }
